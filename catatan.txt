@@ -1,0 +1,4 @@
+// CRUD pada MODUL 3
+Prodi.php > Prodi_model.php > prodi_tambah.php >
+prodi_edit.php > 
+prodi_view.php .
